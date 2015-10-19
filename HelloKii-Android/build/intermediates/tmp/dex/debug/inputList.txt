@@ -1,0 +1,2 @@
+/Users/katoTakashi/Downloads/HelloKii-Android/build/intermediates/classes/debug
+/Users/katoTakashi/Downloads/HelloKii-Android/build/intermediates/pre-dexed/debug/KiiCloudStorageSDK_release_v2.1.31_6ebd33e-3b741d7361e338e5259badf78e9fea99e9d0ab35.jar

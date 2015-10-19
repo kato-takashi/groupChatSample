@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/katoTakashi/Downloads/HelloKii-Android/libs/KiiCloudStorageSDK_release_v2.1.31_6ebd33e.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="26cc69ea57b0ac20fe3b4844a6cdeca43dfde0a5">
+        <dex dex="/Users/katoTakashi/Downloads/HelloKii-Android/build/intermediates/pre-dexed/debug/KiiCloudStorageSDK_release_v2.1.31_6ebd33e-3b741d7361e338e5259badf78e9fea99e9d0ab35.jar" />
+    </item>
+
+</items>

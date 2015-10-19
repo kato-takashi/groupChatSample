@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/build/intermediates/pre-dexed/debug/commons-io-2.4-176003b7b7b247057f2a3f4b972d1ae9937c805b.jar" />
+    </item>
+    <item
+        jar="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/build/intermediates/pre-dexed/debug/classes-745d2425b62e0c1bbf0c2bc872d6e29c30d6c3ea.jar" />
+    </item>
+    <item
+        jar="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/build/intermediates/exploded-aar/com.example.library/android-cloud-sdk-v2.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f7d432f6801bd785bec509039b27e27131636802">
+        <dex dex="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/build/intermediates/pre-dexed/debug/classes-d88aa5c1f20b6c2ee483d5c66f61f6dcae9505a5.jar" />
+    </item>
+    <item
+        jar="/Users/katoTakashi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-apache/2.3.0/f7e3311a6a82377e270bf327fed8dd5c95dd439/okhttp-apache-2.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f7e3311a6a82377e270bf327fed8dd5c95dd439">
+        <dex dex="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/build/intermediates/pre-dexed/debug/okhttp-apache-2.3.0-07c36ee05ddd1143196ef8eb5c7ea7e0e133691e.jar" />
+    </item>
+    <item
+        jar="/Applications/androidx86_64/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5874fea2ce7b33cc9e4324d115199d2fa87e29fa.jar" />
+    </item>
+    <item
+        jar="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/build/intermediates/pre-dexed/debug/google-play-services-631f2ebf6933c2684b54db946c521796774d9fae.jar" />
+    </item>
+    <item
+        jar="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/build/intermediates/pre-dexed/debug/classes-314ff4c51643b4ad3f8ce2a2c41b00270703f3c7.jar" />
+    </item>
+    <item
+        jar="/Users/katoTakashi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/build/intermediates/pre-dexed/debug/okio-1.3.0-15b99c1f3c70585e573c121ecf753a2477ce0144.jar" />
+    </item>
+    <item
+        jar="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-827869660628b80fcedb80776ca7b0bf2fdef68d.jar" />
+    </item>
+    <item
+        jar="/Users/katoTakashi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/Users/katoTakashi/Documents/00git/GsSample/groupChatSample/LoveLetterChat/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0-945e09d4f5cf1b290f04ede1e009a63bbfbc6edf.jar" />
+    </item>
+
+</items>
